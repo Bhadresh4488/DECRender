@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'DECRender_Example' do
+  pod 'DECRender', :path => '../'
+
+  target 'DECRender_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
