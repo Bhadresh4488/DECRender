@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'DECRender'
-  s.version          = '0.1.0'
+  s.version          = '0.1.2'
   s.summary          = 'DECRender use for live render object.'
 
   s.description      = <<-DESC
@@ -23,7 +23,7 @@ DesignableClass will use for effect your object without line of code. Use this c
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
-  s.swift_version = '4.0
+  s.swift_version = '4.0'
 
   s.source_files = 'DECRender/Classes/**/*'
   
