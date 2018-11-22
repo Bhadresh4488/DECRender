@@ -1,0 +1,16 @@
+PODS:
+  - DECRender (0.1.0)
+
+DEPENDENCIES:
+  - DECRender (from `../`)
+
+EXTERNAL SOURCES:
+  DECRender:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DECRender: f7e0afaf25a0707174ea30b52d5818ebf1b1cbfb
+
+PODFILE CHECKSUM: 4a067c0d0df50d2de550c1049004eb1438aa3b94
+
+COCOAPODS: 1.5.3

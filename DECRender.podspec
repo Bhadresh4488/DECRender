@@ -9,16 +9,10 @@
 Pod::Spec.new do |s|
   s.name             = 'DECRender'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of DECRender.'
-
-# This description is used to generate tags and improve search results.
-#   * Think: What does it do? Why did you write it? What is the focus?
-#   * Try to keep it short, snappy and to the point.
-#   * Write the description between the DESC delimiters below.
-#   * Finally, don't worry about the indent, CocoaPods strips it!
+  s.summary          = 'DECRender use for live render object.'
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+DesignableClass will use for effect your object without line of code. Use this class for set property from storyboard without line of code.
                        DESC
 
   s.homepage         = 'https://github.com/bhadresh4488/DECRender'
@@ -29,6 +23,7 @@ TODO: Add long description of the pod here.
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
+  s.swift_version = '4.0
 
   s.source_files = 'DECRender/Classes/**/*'
   

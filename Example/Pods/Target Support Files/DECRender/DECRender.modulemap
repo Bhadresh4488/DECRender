@@ -1,0 +1,6 @@
+framework module DECRender {
+  umbrella header "DECRender-umbrella.h"
+
+  export *
+  module * { export * }
+}

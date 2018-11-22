@@ -1,0 +1,22 @@
+{
+  "name": "DECRender",
+  "version": "0.1.0",
+  "summary": "A short description of DECRender.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/bhadresh4488/DECRender",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "bhadresh4488": "tushar.mistri@nexuslinkservices.in"
+  },
+  "source": {
+    "git": "https://github.com/bhadresh4488/DECRender.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DECRender/Classes/**/*"
+}
