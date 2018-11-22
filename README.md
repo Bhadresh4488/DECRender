@@ -20,10 +20,6 @@ it, simply add the following line to your Podfile:
 pod 'DECRender'
 ```
 
-## Author
-
-bhadresh4488, tushar.mistri@nexuslinkservices.in
-
 ## License
 
 DECRender is available under the MIT license. See the LICENSE file for more info.
